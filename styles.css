@@ -3,3 +3,7 @@ body{
     color: white;
     text-align: center;
 }
+#sim-pic{
+    height: 300px;
+    width: 300px;
+}
