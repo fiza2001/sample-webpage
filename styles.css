@@ -5,4 +5,6 @@ body{
 #elon-pic{
     height: 300px;
     width: 300px;
+    display: none;
+    justify-content: center;
 }
